@@ -6,7 +6,7 @@
 1. Download `index.php` and `projects.php` from this repository
 2. Or clone the entire repository:
    ```bash
-   git clone https://github.com/yourusername/laragon-project-dashboard.git
+   git clone https://github.com/salumuomary/laragon-project-explorer.git
    ```
 
 ### Step 2: Install
