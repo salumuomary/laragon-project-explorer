@@ -1,0 +1,50 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary Files
+*.tmp
+.tmp*
+temp/
+tmp/
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# PHP
+vendor/
+composer.lock
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Cache
+cache/
+.cache/
