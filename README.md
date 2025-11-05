@@ -76,12 +76,15 @@ laragon-project-dashboard/
 
 ### Dashboard Overview
 The main dashboard displays two tables side by side with all your projects organized by index file presence.
+![Dashboard Overview](Screenshot.png)
 
 ### Folder Tree Dropdown
 Each project has an interactive dropdown menu showing its complete file structure for quick navigation.
+![Dashboard Overview](Tree.png)
 
 ### Sorting Options
 Independent sorting controls for each table with visual feedback on the active sort method.
+![Dashboard Overview](Sort.png)
 
 ## ⚙️ Configuration
 
