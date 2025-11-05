@@ -43,7 +43,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/yourusername/laragon-project-dashboard.git
+   git clone https://github.com/salumuomary/laragon-project-explorer.git
    ```
 3. Create a branch:
    ```bash
@@ -85,7 +85,7 @@ Add folder size calculation feature
 ## Project Structure
 
 ```
-laragon-project-dashboard/
+laragon-project-explorer/
 ├── index.php           # Main dashboard page
 ├── projects.php        # Backend logic
 ├── README.md          # Project documentation
