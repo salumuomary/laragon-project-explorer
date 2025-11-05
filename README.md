@@ -51,7 +51,7 @@ Each table supports independent sorting:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/laragon-project-dashboard.git
+   git clone https://github.com/salumuomary/laragon-project-explorer.git
    ```
 
 2. **Copy files to your document root**
